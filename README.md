@@ -6,4 +6,4 @@ Because it's so simple,so you can easily find the configuration in .m file and c
 
 Althought it's so simple , but I hope it can be helpful.
 
-![AnimatedPageControl](https://github.com/Tr2e/SPAnimatedPageControl/raw/master/supplement.png)
+![AnimatedPageControl](https://github.com/Tr2e/SPAnimatedPageControl/raw/master/animatedPageControl.gif)
